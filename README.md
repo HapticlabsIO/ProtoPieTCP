@@ -1,6 +1,15 @@
 # ProtoPie TCP
 ProtoPie Demo highlighting the TCP connection with Hapticlabs Studio. It triggers playback in the Hapticlabs Studio through TCP so the Satellite can remain connected to the Studio, this means you can keep easily changing, adding or tweaking tracks while building your ProtoPie demo.
 
+## Demo
+
+To run the demo:
+1. Open the `ProtoPie-TCP.hptl` file in Hapticlabs Studi0
+2. Connect your Satellite
+3. Open ProtoPie Connect
+4. Add the `ProtoPie-TCP.pie` file in ProtoPie Connect; "New" > "Local Pie" in the top left corner
+5. Run it!
+
 ## Connection
 
 Simply open Hapticlabs Studio and ProtoPie Connect. Hapticlabs should send a confirmation message in ProtoPie Connect when it is connected.
