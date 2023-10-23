@@ -4,10 +4,10 @@ ProtoPie Demo highlighting the TCP connection with Hapticlabs Studio. It trigger
 ## Demo
 
 To run the demo:
-1. Open the `ProtoPie-TCP.hptl` file in Hapticlabs Studi0
-2. Connect your Satellite
-3. Open ProtoPie Connect
-4. Add the `ProtoPie-TCP.pie` file in ProtoPie Connect; "New" > "Local Pie" in the top left corner
+1. Open the `ProtoPie-TCP.hptl` file in Hapticlabs Studi0.
+2. Connect your Satellite.
+3. Open ProtoPie Connect.
+4. Import `ProtoPie-TCP.pie` in ProtoPie Connect; "New" > "Local Pie" in the top left corner.
 5. Run it!
 
 ## Connection
