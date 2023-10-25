@@ -11,10 +11,19 @@ To run the demo:
 5. Click "New" > "Local Pie" in the top left corner
 6. Run it!
 
+
+
+
 ## Connection
 
-Simply open Hapticlabs Studio and ProtoPie Connect. Hapticlabs will send a confirmation message in ProtoPie Connect when everything is working.
+Simply open Hapticlabs Studio and then ProtoPie Connect. Hapticlabs will send a confirmation message in ProtoPie Connect when everything is working.
+
 ![Screenshot 2023-10-23 at 17 40 43](https://github.com/HapticlabsIO/ProtoPieTCP/assets/34678030/7806bea3-0836-4399-b2ea-aa476c592630)
+
+### Troubleshooting
+Sometimes restarting ProtoPie Connect is needed if it was running before Hapticlabs Studio. Also make sure to use either the first or the second server address in ProtoPie Connect.
+
+![image](https://github.com/HapticlabsIO/ProtoPieTCP/assets/34678030/b9cb9a8e-2cc9-40f1-94d2-695ce196be0e)
 
 ## Syntax
 
